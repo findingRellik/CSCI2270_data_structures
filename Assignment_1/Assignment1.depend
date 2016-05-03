@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453925675 source:/home/user/Dropbox/CSCI2270/Assignments/Assignment1/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
