@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1461831097 source:/home/user/Dropbox/CSCI2270/Assignments/Final Project/UGC/main.cpp
+	<iostream>
+	<istream>
+	"classGrade.h"
+
+1461831097 source:/home/user/Dropbox/CSCI2270/Assignments/Final Project/UGC/classGrade.cpp
+	"classGrade.h"
+	<iostream>
+	<istream>
+
+1461830873 /home/user/Dropbox/CSCI2270/Assignments/Final Project/UGC/classGrade.h
+	<iostream>
+	<istream>
+
+1461888742 source:/home/user/Dropbox/CSCI2270/Assignments/Final Project/Metzner_CSCI2270_FinalProject/UGC/classGrade.cpp
+	"classGrade.h"
+	<iostream>
+	<istream>
+
+1461832038 /home/user/Dropbox/CSCI2270/Assignments/Final Project/Metzner_CSCI2270_FinalProject/UGC/classGrade.h
+	<iostream>
+	<istream>
+
+1461884964 source:/home/user/Dropbox/CSCI2270/Assignments/Final Project/Metzner_CSCI2270_FinalProject/UGC/main.cpp
+	<iostream>
+	<istream>
+	"classGrade.h"
+
