@@ -1,6 +1,7 @@
 # CSCI2270_data_structures
-Data structures code
+Data structures code ||
 
 This repository includes assignments of an intro to data structures course ~CSCI 2270~
-Written solely in C++
+Written solely in C++ ||
+
 C++ code was built and ran on CodeBlocks IDE
