@@ -1,4 +1,4 @@
-# CSCI2270_data_structures
+# intro_to_data_structures
 Data structures code ||
 
 This repository includes assignments of an intro to data structures course.
